@@ -108,7 +108,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: #E20000;
 		position: relative;
       border: none;
       float: right;
@@ -199,8 +199,8 @@
 
    /* header social links */
    header .social {
-      margin: 18px 0 24px 0;
-      font-size: 24px;
+      margin: 22px 0 28px 0;
+      font-size: 28px;
       line-height: 36px;
    }
    header .social li { margin: 0 10px; }
