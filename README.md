@@ -8,7 +8,7 @@ As of right now, I have committed a Keyword Generator project which is written i
 
 Along with that, I also have committed some examples of data structures I have worked on in Java.  This is a great demonstration of the learning I have been doing at UMN.  
 
-Finally, the last thing committed on here is my personal website / resume (HTML 5 hosted on the internet).  Included is the raw source code - just a fun project to work on.  
+Finally, the last thing committed on here is my personal website / resume (HTML 5 hosted on the Netlify through GitHub).  Included is the raw source code - just a fun project to work on. If you want to view the hosted version, it is available at https://sather.ws 
 
 Thanks again and don't be hesitant to reach out!
 
