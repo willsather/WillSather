@@ -74,7 +74,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: #E20000;
 }
 header .banner-text hr {
    width: 60%;
@@ -350,7 +350,7 @@ ul#nav li.current a:visited  { color: #E20000; } /* Highlighted Color */
   	-webkit-animation: css 2s ease;
 }
 .google-ads {
-  	width: 75%;
+  	width: 65%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
@@ -403,7 +403,7 @@ ul#nav li.current a:visited  { color: #E20000; } /* Highlighted Color */
 }
 @-webkit-keyframes google-ads {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes excel {
   0%   { width: 0px;  }
