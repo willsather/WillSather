@@ -345,7 +345,7 @@ ul#nav li.current a:visited  { color: #E20000; } /* Highlighted Color */
   	-webkit-animation: wordpress 2s ease;
 }
 .git {
-  	width: 85%;
+  	width: 70%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
