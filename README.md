@@ -16,4 +16,4 @@ Finally, the last thing committed on here is my personal website / resume (HTML 
 
 Thanks again and don't be hesitant to reach out!
 
-~ W/s
+<img src="Website/images/signature.png" width=250>
