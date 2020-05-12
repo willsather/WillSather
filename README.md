@@ -4,7 +4,7 @@ Hello -
 
 Thank you for taking the time to come look at my code and the work I have been putting into my programming experience.  
 
-As of right now, I have committed a Keyword Generator project (which is written in Python 3) , a COVID-19 Windows application demo (written in C# in Visual Studio), and finally a bus simulator built during a software development class (C++).  
+As of right now, I have committed a Keyword Generator project, a COVID-19 Windows application demo, a group project from a Hackathon, a bus/transit simulator, and finally a website.  
 
 
 ### COVID-19 Demo (C#)
