@@ -330,7 +330,7 @@ ul#nav li.current a:visited  { color: #E20000; } /* Highlighted Color */
 
 /* Skill Bar Animations */
 .java {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -344,17 +344,17 @@ ul#nav li.current a:visited  { color: #E20000; } /* Highlighted Color */
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.git {
-  	width: 70%;
+.c-sharp {
+  	width: 75%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.google-ads {
-  	width: 65%;
+.git {
+  	width: 85%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.excel {
+.google-ads {
   	width: 90%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
