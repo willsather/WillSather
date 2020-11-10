@@ -38,8 +38,6 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateKonami() {
-  document.body.style.backgroundImage = "url('images/cheatBackground.png')";
-
   alert("Nice! Konami easter egg has been found :)");
   console.log("KONAMI EASTER EGG YAY!!!");
 }
