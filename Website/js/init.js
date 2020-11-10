@@ -9,7 +9,9 @@
 /*----------------------------------------------------*/
 /* FitText Settings
 ------------------------------------------------------ */
-    console.log("Hello this is test! INIT");
+    console.log("Hi friend, welcome to my website :)");
+    console.log("Your first easter egg: https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+
     setTimeout(function() {
 	   $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' });
 	 }, 100);
