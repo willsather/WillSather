@@ -6,11 +6,6 @@
 
  jQuery(document).ready(function($) {
 
-   $( window ).konami();
-   $( window ).on('konami', function() {
-     alert( 'Cheat code activated!' );
-   })
-
 /*----------------------------------------------------*/
 /* FitText Settings
 ------------------------------------------------------ */
