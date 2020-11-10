@@ -6,20 +6,27 @@
 
  jQuery(document).ready(function($) {
 
-/*----------------------------------------------------*/
-/* FitText Settings
------------------------------------------------------- */
-    console.log("Hi friend, welcome to my website :)");
-    console.log("You found an easy egg: https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+   /*----------------------------------------------------*/
+   /* Welcome Messages
+   ------------------------------------------------------ */
 
+   console.log("Hi friend, welcome to my website :)");
+   console.log("-----------------------------------");
+   console.log("Updated: Nov 9, 2020.  v1.2");
+   console.log("-----------------------------------");
+   console.log("You found an easy egg: https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+
+  /*----------------------------------------------------*/
+  /* FitText Settings
+  ------------------------------------------------------ */
     setTimeout(function() {
 	   $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' });
 	 }, 100);
 
 
-/*----------------------------------------------------*/
-/* Smooth Scrolling
------------------------------------------------------- */
+  /*----------------------------------------------------*/
+  /* Smooth Scrolling
+  ------------------------------------------------------ */
 
    $('.smoothscroll').on('click',function (e) {
 	    e.preventDefault();
@@ -35,9 +42,9 @@
 	});
 
 
-/*----------------------------------------------------*/
-/* Highlight the current section in the navigation bar
-------------------------------------------------------*/
+  /*----------------------------------------------------*/
+  /* Highlight the current section in the navigation bar
+  ------------------------------------------------------*/
 
 	var sections = $("section");
 	var navigation_links = $("#nav-wrap a");
@@ -62,10 +69,10 @@
 	});
 
 
-/*----------------------------------------------------*/
-/*	Make sure that #header-background-image height is
-/* equal to the browser height.
------------------------------------------------------- */
+  /*----------------------------------------------------*/
+  /*	Make sure that #header-background-image height is
+  /* equal to the browser height.
+  ------------------------------------------------------ */
 
    $('header').css({ 'height': $(window).height() });
    $(window).on('resize', function() {
@@ -75,9 +82,9 @@
    });
 
 
-/*----------------------------------------------------*/
-/*	Fade In/Out Primary Navigation
-------------------------------------------------------*/
+  /*----------------------------------------------------*/
+  /*	Fade In/Out Primary Navigation
+  ------------------------------------------------------*/
 
    $(window).on('scroll', function() {
 
