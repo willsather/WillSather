@@ -44,4 +44,5 @@ function activateCheats() {
   audio.play();
 
   alert("Nice! Konami easter egg has been found :)");
+  console.log("KONAMI EASTER EGG YAY!!!");
 }
