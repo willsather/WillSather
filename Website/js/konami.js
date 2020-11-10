@@ -29,7 +29,7 @@ document.addEventListener('keydown', function(e) {
 
     // if the last key is reached, activate cheats
     if (konamiCodePosition == konamiCode.length) {
-      activateCheats();
+      activateKonami();
       konamiCodePosition = 0;
     }
   } else {
@@ -37,11 +37,8 @@ document.addEventListener('keydown', function(e) {
   }
 });
 
-function activateCheats() {
+function activateKonami() {
   document.body.style.backgroundImage = "url('images/cheatBackground.png')";
-
-  var audio = new Audio('audio/pling.mp3');
-  audio.play();
 
   alert("Nice! Konami easter egg has been found :)");
   console.log("KONAMI EASTER EGG YAY!!!");
