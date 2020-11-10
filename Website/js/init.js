@@ -10,7 +10,7 @@
 /* FitText Settings
 ------------------------------------------------------ */
     console.log("Hi friend, welcome to my website :)");
-    console.log("Your first easter egg: https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+    console.log("You found an easy egg: https://www.youtube.com/watch?v=dQw4w9WgXcQ");
 
     setTimeout(function() {
 	   $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' });
