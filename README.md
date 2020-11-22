@@ -9,7 +9,7 @@ As of right now, I have committed a Keyword Generator project, a COVID-19 Window
 
 ### COVID-19 Demo (C#)
 
-The COVID-19 Windows application demo is my most recent project which was built out of boredom during my quarantined semester.  I essentially developed an app that parses website's HTML to find the most up-to-date coronavirus statistics, plots the numbers, and also provides resources and information regarding the virus.  This was also meant for me to develop a more working knowledge of C# as well as Visual Studio. 
+The COVID-19 Windows application demo is my most recent project which was built out of boredom during my quarantined semester.  In the directory, I have two different versions.  The first one was my first ever project using C# and visual studio.  After 6 months of enterprise C# development (internship and part time work), I decided to redo the core components.  A lot of the changes that were made improved massive runtime improvements, implemented a API consumption using JSON, and just overall better file management and code cleaniness.  This project has been an ongoing one and I will continue to upgrade it as I have the time.  I am now working on implementing feature to change specified state, asynchonrous loading with UI toggles, and overall a cleaner more usable user interface that meets Microsoft's standards.  I will continue to keep each version of this demo on git as to show my overall improvements and code growth.  
 
 ### Bus Simulator (C++)
 
