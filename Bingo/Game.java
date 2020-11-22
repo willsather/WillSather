@@ -166,6 +166,7 @@ public class Game {
 	
 	public void endGame()
     {
+		// Initalizes new game
 		Game newGame = new Game();
 	}
 	

@@ -220,8 +220,5 @@ public class Runner {
 		
 		frame.add( twentyFive );
 		twentyFive.setHorizontalAlignment(JLabel.CENTER);
-		
-		
 	}
-	
 }
