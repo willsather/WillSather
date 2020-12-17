@@ -6,6 +6,10 @@
 
 <br/>
 
+## Project Description
+
+During my spring semester of sophomore year, I took a class called Software Design and Development at University of Minnesota. This class is entirely centered around learning C++ and applying it to a single, semester-long, project.  This project is a simulation of the university's transit bus system.  The goal of this project is to learn various programming paradigms and styles, proper documentation skills, and understanding the raw C++  along with forming a software development mentality (rather just than coding). 
+
 ## How to use Transit Simulator and Visualization:
 
 #### Step by step for instructions for CSE Labs machines or vole users
