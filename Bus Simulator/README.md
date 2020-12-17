@@ -1,5 +1,12 @@
 
-### Running the Transit Simulator and Visualization:
+# Bus Simulator (C++)
+
+### Will Sather
+##### Last Updated: May, 2020 
+
+<br/>
+
+## How to use Transit Simulator and Visualization:
 
 #### Step by step for instructions for CSE Labs machines or vole users
 
