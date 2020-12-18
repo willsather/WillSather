@@ -11,7 +11,7 @@ As of right now, I have committed a Bingo Game Simulator, Keyword Generator proj
 
 The COVID-19 Windows application demo is my most recent project which was built out of boredom during my quarantined semester.  In the directory, I have two different versions.  The first one was my first ever project using C# and visual studio.  After 6 months of enterprise C# development (internship and part time work), I decided to redo some of the core functionality.  Some of the benefits of the second version is a massive runtime improvement, implemented a API consumption using JSON, and just overall better file management and code health.  This project has been an ongoing one and I will continue to upgrade it as I have the time.  I am now working on implementing feature to change specified state, asynchonrous loading with UI toggles, and overall a cleaner more usable user interface that meets Microsoft's standards.  I will continue to keep each version of this demo on git as to show my overall improvements and code growth.  
 
-### Bingo (CJava
+### Bingo (Java)
 
 This project is quite special to me as it was the first true coding project that I ever worked on.  It was during my senior year of high school where I got to choose a project group where a three man team got to work on any project they so choose.  Our group worked on creating the front and backend of a java based Bingo game.  By the time we got so far, we ended up creating the ability to simulate games using an "AI" so we could make some calculations on win percentages and such.  I still include this project so I can look back and admire my self improvement, but also because it was the first time I had a fully functioning "product" built with code. 
 
