@@ -11,7 +11,7 @@ function Body() {
                 developed with react.
             </div>
             <div className="react">
-                deployed on netlify.
+                deployed on netlify. 
             </div>
         </div>
     );
