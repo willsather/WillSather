@@ -1,22 +1,88 @@
 html, body {margin: 0; height: 100%; overflow: hidden}
 
-.body {
+.experience-page {
     position: relative;
     display: block;
     width: 100%;
     color: white;
+    background: transparent;
     height: 10000px;
-    text-align: center;
 }
 
-.name {
+.experience-title {
     color: black;
     font-size: 100px;
     letter-spacing: 20px;
+    padding-top: 50px;
+    text-align: center;
 }
 
-.react {
-    color: black;
+.experience-body {
+    color: grey;
     font-size: 15px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 1%;
 }
+
+#href {
+    color: grey;
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.experience-div {
+    height: 90vh;
+    margin-top: 1%;
+}
+
+/***************************/
+/** Job Main List (Title) **/
+
+#experience-list {
+    position: fixed;
+    top: 40%;
+    left: 15px;
+    width: 100%;
+
+    list-style: none;
+    margin-left: 25px;
+    margin-top: 3%;
+    padding-left: 0;
+}
+
+#experience-list li {
+    font-size: 20px;
+    color: black;    
+}
+
+#experience-list li span{
+    font-size: 30px;
+    color: black;  
+    font-weight:bolder;  
+}
+
+#experience-list li:before {
+    padding-right: 15px;
+    content: "»";
+}
+
+/****************************/
+/** Sub List (Description) **/
+#sub-list {
+    list-style: none;
+    margin-left: 15px;
+}
+
+#sub-list li {
+    font-size: 18px;
+    color: grey;
+    padding-bottom: 75px;
+}
+
+#sub-list li:before {
+    list-style: none;
+    content: "//";
+    padding-right: 4px;
+  }

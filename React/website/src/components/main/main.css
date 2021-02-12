@@ -1,0 +1,43 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+.main-page {
+    position: relative;
+    display: block;
+    width: 100%;
+    color: black;
+    height: 10000px;
+    text-align: center;
+}
+
+.main-title {
+    color: black;
+    font-size: 100px;
+    letter-spacing: 20px;
+    padding-top: 50px;
+}
+
+.main-body {
+    color: black;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.main-social {
+    letter-spacing: 2px;
+    height: 90vh;
+}
+
+#social-list {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    letter-spacing: 2px;
+    list-style: none;
+}
+
+#social-list li {
+    float: left;
+    padding-left: 28px;
+    text-decoration: underline;
+}
