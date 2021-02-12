@@ -10,5 +10,26 @@
     position: absolute;
     top: 18%; left: 50px;
     color: black;
-    letter-spacing: 5px;
+}
+
+#nav {
+    color: black;
+    position: absolute;
+    top: 35%; right: 50px;
+    letter-spacing: 2px;
+    list-style: none;
+}
+
+#nav li {
+    color: black;
+    float: left;
+    padding-left: 50px;
+}
+
+#nav ul {
+    color: black;
+}
+
+#href {
+    color: black;
 }
