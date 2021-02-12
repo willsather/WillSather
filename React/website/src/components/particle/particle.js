@@ -6,8 +6,6 @@ function Particle(){
         <div>
             <Particles id="particle"
                 style={{ position: "absolute" }}
-                height="95%"
-                width="95%"
                 params={{
                     particles: {
                     color: {
