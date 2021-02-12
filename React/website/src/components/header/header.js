@@ -19,14 +19,14 @@ function Header() {
         </div>
 
         <ul id="nav">
-        <li>
+          <li>
             <Link to="/" Style="color:black">Home</Link>
           </li>
           <li>
             <Link to="/experience" Style="color:black">Experience</Link>
           </li>
           <li>
-            <a href="/about" Style="color:black">About</a>
+            <Link to="/about" Style="color:black">About</Link>
           </li>
         </ul>
 
