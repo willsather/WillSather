@@ -1,36 +1,46 @@
 .header_black {
     position: fixed;
-    width: 100%;
     height: 125px;
+    width: 100%;
     color: white;
     background: black;
+}
+
+.flex {
+    display: flex;
+    width: 100%;
+    table-layout:fixed;
 }
 
 .logo_white {
     position: absolute;
     top: 10%; left: 3%;
-    color: white;
+    margin-left: 2%;
 }
 
 #nav_white {
-    color: white;
     position: absolute;
-    top: 35%;
+    top: 10%; right: 3%;
+    color: white;
+
+    text-align: right;
     letter-spacing: 2px;
     list-style: none;
+
+    line-height: 35px;
 }
 
 #nav li {
     color: white;
     float: left;
-    padding-left: 50px;
+    padding-left: 50px; /*item seperation*/
+}
+
+#nav li:first-child {
+    margin-top: 0px;
 }
 
 #nav ul {
     color: white;
     margin-left: 150px;
-}
-
-#href {
-    color: white;
 }

@@ -9,7 +9,7 @@ function About() {
             </h1>
 
             <div className="about-body">
-                hi, i'm will :)
+                hi, i'm will.
             </div>
 
             <div class="flex">
