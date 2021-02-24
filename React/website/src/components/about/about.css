@@ -9,7 +9,7 @@
     font-size: max(75px, 7.5vw);
 
     letter-spacing: 20px;
-    padding-top: 125px;
+    padding-top: 150px;
     text-align: center;
 }
 
@@ -61,7 +61,7 @@
 @media screen and (max-width: 1000px) {
 
     .about-page {
-        height: 138vh;
+        height: 150vh;
     }
 
    .flex {

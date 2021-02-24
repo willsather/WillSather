@@ -29,18 +29,3 @@
 
     line-height: 35px;
 }
-
-#nav li {
-    color: white;
-    float: left;
-    padding-left: 50px; /*item seperation*/
-}
-
-#nav li:first-child {
-    margin-top: 0px;
-}
-
-#nav ul {
-    color: white;
-    margin-left: 150px;
-}
