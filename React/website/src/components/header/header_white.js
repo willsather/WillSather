@@ -1,4 +1,4 @@
-import './header.css'
+import './header_white.css'
 
 import {
   BrowserRouter as Router,
@@ -9,9 +9,9 @@ import {
 
 import logo from '../../graphics/logo_black.png'
 
-function Header() {
+function HeaderWhite() {
   return (
-    <header className="header">
+    <header className="header_white">
         
       <div class="flex">
         
@@ -21,7 +21,7 @@ function Header() {
           </a>
         </div>
 
-        <ul class="nav_trans" id="nav_trans">
+        <ul class="nav_white" id="nav_white">
           <li>
             <Link to="/" Style="color:black">Home</Link>
           </li>
@@ -38,4 +38,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default HeaderWhite;

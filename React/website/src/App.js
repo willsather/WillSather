@@ -12,6 +12,7 @@ import logo_white from './graphics/logo_loading.gif'
 
 import Header from './components/header/header'
 import Header_Black from './components/header/header_black'
+import Header_White from './components/header/header_white'
 import Main from './components/main/main'
 import Experience from './components/experience/experience'
 import About from './components/about/about'
@@ -33,7 +34,7 @@ function App() {
           <Main />
         </Route>
         <Route path="/experience">
-          <Header /> 
+          <Header_White /> 
           <Experience /> 
         </Route>
         <Route path="/about">

@@ -13,20 +13,30 @@ function Experience() {
 
             <div className="experience-div">
                 <ul id="experience-list">
-                    <li> <span>Dell Technologies.</span> Systems Engineer Intern.
-                        <ol id="sub-list">
+                    <li> <span>Dell Technologies.</span>
+                        <ol id="sub-list-position">
+                            <li>Systems Engineer Intern.</li>
+                        </ol>
+                        <ol id="sub-list-description">
                             <li>tbd.</li>
                         </ol>
                     </li>
                     
-                    <li> <span>Ivanti.</span> Software Engineer Intern.
-                        <ol id="sub-list">
+                    <li> <span>Ivanti.</span>
+                        <ol id="sub-list-position">
+                            <li>Software Engineer Intern.</li>
+                        </ol> 
+
+                        <ol id="sub-list-description">
                             <li>c#, azure devops, visual studio, ci build pipeline.</li>
                         </ol>
                     </li>
                     
-                    <li> <span>Creatively Innovative.  </span> Data Analyst.
-                        <ol id="sub-list">
+                    <li> <span>Creatively Innovative.</span>
+                        <ol id="sub-list-position">
+                            <li>Data Analyst.</li>
+                        </ol> 
+                        <ol id="sub-list-description">
                             <li>google ads, tableau, python, excel.</li>
                         </ol>
                     </li>

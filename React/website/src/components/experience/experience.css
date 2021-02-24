@@ -1,16 +1,16 @@
 .experience-page {
-    width: 100%;
+    width: auto;
     height: 100vh;
-    color: white;
-    background: transparent;
-    overflow: hidden;
+    background: white;
 }
 
 .experience-title {
     color: black;
-    font-size: 100px;
-    letter-spacing: 20px;
-    padding-top: 100px;
+    font-size: max(20px, 7.5vw);
+    letter-spacing: 8px;
+
+    width: 100%;
+    padding-top: 150px;
     text-align: center;
 }
 
@@ -37,7 +37,6 @@
 /** Job Main List (Title) **/
 
 #experience-list {
-    position: fixed;
     top: 35%;
     left: 15px;
     width: 100%;
@@ -65,20 +64,50 @@
 }
 
 /****************************/
+/** Sub List (Position) **/
+#sub-list-position {
+    list-style: none;
+    margin-left: 0;
+}
+
+#sub-list-position li {
+    font-size: 18px;
+    color: black;
+    padding-bottom: 5px;
+    text-decoration: none;
+}
+
+#sub-list-position li:before {
+    list-style: none;
+    content: none;
+    padding-right: 2px;
+}
+
+/****************************/
 /** Sub List (Description) **/
-#sub-list {
+
+#sub-list-description {
     list-style: none;
     margin-left: 15px;
 }
 
-#sub-list li {
+#sub-list-description li {
     font-size: 18px;
     color: grey;
     padding-bottom: 75px;
+    padding-right: 10%;
 }
 
-#sub-list li:before {
+#sub-list-description li:before {
     list-style: none;
     content: "//";
     padding-right: 4px;
-  }
+}
+
+@media screen and (max-width: 400px) {
+
+    #experience-list {
+        margin-top: 8%;
+    }
+
+}

@@ -9,7 +9,7 @@ import {
 
 import logo from '../../graphics/logo_white.png'
 
-function Header() {
+function HeaderBlack() {
   return (
     <header className="header_black">
 
@@ -38,4 +38,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default HeaderBlack;
