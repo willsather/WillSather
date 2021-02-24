@@ -38,7 +38,7 @@ function App() {
         </Route>
         <Route path="/about">
           <Header_Black /> 
-          <About /> 
+          <About />
         </Route>
       </Switch>
     
@@ -52,9 +52,9 @@ document.addEventListener('DOMContentLoaded', (e)=>{
   setTimeout(()=>{
     document.getElementById("splash").style.opacity="0";
     document.getElementById("splash").style.zIndex=-10;
-    document.getElementById("splash").style.transition='all 2.3s';
+    document.getElementById("splash").style.transition='all .1s'; //2.3s
 
-  }, 2750)
+  }, 0) //2750
 })
 
 export default App;

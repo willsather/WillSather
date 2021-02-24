@@ -25,7 +25,7 @@ function About() {
                 <br></br>
                 <br></br>
                 <br></br>
-                outside of the experience listed, i have some experience with html, react,
+                outside of the experience listed, i have some previous work with html, react,
                 and javascript through the personal websites i have made over the years.  
                 professionally, i have never worked on front-end development; however, i have
                 found the work quite fascinating just on my own time.  
