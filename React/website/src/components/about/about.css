@@ -61,7 +61,7 @@
 @media screen and (max-width: 1000px) {
 
     .about-page {
-        height: 138vh;
+        height: 150vh;
     }
 
    .flex {
@@ -76,7 +76,9 @@
 
     .picture img {
         height: auto;
-        width: 50vw;
+        width: 58vw;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .about-paragraph {

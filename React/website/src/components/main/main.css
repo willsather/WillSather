@@ -8,9 +8,9 @@
 
 .main-title {
     color: black;
-    font-size: 100px;
+    font-size: max(85px, 7.5vw);
     letter-spacing: 20px;
-    padding-top: 100px;
+    padding-top: 150px;
 }
 
 .main-body {
