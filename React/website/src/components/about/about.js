@@ -32,7 +32,7 @@ function About() {
                 </div>
 
                 <div class="picture">
-                    <img src={picture} alt="Will Sather" width="600px"/>
+                    <img src={picture} alt="Will Sather" />
                 </div>
 
             </div>

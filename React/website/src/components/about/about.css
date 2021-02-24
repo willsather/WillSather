@@ -1,8 +1,7 @@
 .about-page {
-    width: 100%;
+    width: auto;
     height: 125vh;
     background: black;
-    margin: auto auto auto auto;
 }
 
 .about-title {
@@ -31,10 +30,16 @@
 
 .picture {
     max-width: 100%;
+
     display: table-cell;
     vertical-align: top;
     padding-left: 40px;
     padding-right: 40px;
+}
+
+.picture img {
+    height: auto;
+    width: 600px;
 }
 
 .about-paragraph {
@@ -59,20 +64,24 @@
    }
 
    .picture {
-    width: 100%;
+        width: 50%;
+        margin: auto;
+        padding: 0px;
+    }
 
-    margin-left: auto;
-    margin-right: auto;
-}
+    .picture img {
+        height: auto;
+        width: 50vw;
+    }
 
-.about-paragraph {
-    font-size: 20px;
-    color: grey;
-    letter-spacing: .5px;
+    .about-paragraph {
+        font-size: 20px;
+        color: grey;
+        letter-spacing: .5px;
 
-    padding-top: 40px;
-    padding-left: 40px;
-    padding-right: 40px;
+        padding-top: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
 
-}
+    }
 }
