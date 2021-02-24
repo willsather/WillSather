@@ -34,6 +34,7 @@
 }
 
 #social-list li {
+    font-size: 16px;
     float: left;
     padding-left: 28px;
     text-decoration: underline;
