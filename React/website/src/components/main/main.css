@@ -8,6 +8,7 @@
 
 .main-title {
     color: black;
+    text-align: center;
     font-size: max(85px, 7.5vw);
     letter-spacing: 20px;
     padding-top: 150px;
@@ -15,7 +16,7 @@
 
 .main-body {
     color: black;
-    font-size: 15px;
+    font-size: 17px;
     letter-spacing: 2px;
 }
 

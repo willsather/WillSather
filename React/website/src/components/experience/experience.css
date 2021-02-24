@@ -6,8 +6,8 @@
 
 .experience-title {
     color: black;
-    font-size: max(20px, 7.5vw);
-    letter-spacing: 8px;
+    font-size: max(40px, 7.5vw);
+    letter-spacing: 20px;
 
     width: 100%;
     padding-top: 150px;
@@ -16,7 +16,7 @@
 
 .experience-body {
     color: grey;
-    font-size: 15px;
+    font-size: 17px;
     letter-spacing: 1px;
     text-align: center;
 }
@@ -105,6 +105,10 @@
 }
 
 @media screen and (max-width: 400px) {
+
+    .experience-title {
+        letter-spacing: 5px;
+    }
 
     #experience-list {
         margin-top: 8%;
