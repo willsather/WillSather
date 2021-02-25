@@ -10,6 +10,7 @@ function Main() {
             <h2 className="main-body">
                 developed with react.
             </h2>
+            
             <h3 className="main-body">
                 deployed on netlify. 
             </h3>
