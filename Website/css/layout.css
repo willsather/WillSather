@@ -470,24 +470,24 @@ ul#nav li.current a:visited  { color: #E20000; } /* Highlighted Color */
 }
 
 /* ------------------------------------------------------------------ */
-/* f. VSCO Section
+/* f. LinkedIn Section
 /* ------------------------------------------------------------------ */
 
-#vsco {
+#linkedin {
    background: #212121;
    padding-top: 66px;
    padding-bottom: 48px;
 }
-#vsco h1 {
+#linkedin h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
 }
-#vsco h1 span { display: none; }
-#vsco .header-col h1:before {
+#linkedin h1 span { display: none; }
+#linkedin .header-col h1:before {
    font-family: 'FontAwesome';
-   content: "\f083";
+   content: "\f0e1";
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
@@ -495,35 +495,35 @@ ul#nav li.current a:visited  { color: #E20000; } /* Highlighted Color */
    float: left;
    color: #fff;
 }
-#vsco .action {
+#linkedin .action {
    margin-top: 12px;
 }
-#vsco h2 {
+#linkedin h2 {
    font: 28px/36px 'opensans-bold', sans-serif;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
-#vsco h2 a {
+#linkedin h2 a {
    color: inherit;
 }
-#vsco p {
+#linkedin p {
    color: #888;
    font-size: 17px;
 }
 
-#vsco .button {
+#linkedin .button {
 	color: #E20000;
   width: 125px;
   text-align: center;
   background:#fff;
 }
 
-#vsco .button:hover,
-#vsco .button:active {
+#linkedin .button:hover,
+#linkedin .button:active {
    background: #E20000;
    color: #fff;
 }
-#vsco p span {
+#linkedin p span {
 	font-family: 'opensans-semibold', sans-serif;
 	color: #E20000;
 }
