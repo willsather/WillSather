@@ -22,7 +22,6 @@ function Main() {
                     <li><a href="https://github.com/willsather/Will-Sather" Style="color:black" target="_blank">Github</a></li>
                     <li><a href="https://twitter.com/will_sather" Style="color:black" target="_blank">Twitter</a></li>
                     <li><a href="https://www.linkedin.com/in/willsather" Style="color:black" target="_blank">Linkedin</a></li>
-                    <li><a href="https://www.linkedin.com/in/willsather" Style="color:black" target="_blank">Linkedin</a></li>
                 </ul>
             </div>
         </div>
