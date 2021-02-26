@@ -1,7 +1,7 @@
 # COVID-19 Demo (C#)
 
 ### Will Sather
-##### Last Updated: December, 2020 
+##### Last Updated: February, 2021
 
 <br/>
 
@@ -35,3 +35,19 @@ The COVID-19 Windows application demo is my most recent project which was built 
 <br />
 
 ## Screenshots
+
+<br />
+
+<img src="Screenshots/Dashboard.png"  width=750>
+
+<br />
+<br />
+<br />
+
+<img src="Screenshots/Symptoms.png" width=750>
+
+<br />
+<br />
+<br />
+
+<img src="Screenshots/Resources.png" width=750>
