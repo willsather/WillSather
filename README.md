@@ -27,7 +27,7 @@ During my fall semester of sophomore year, I went out on a limb with some friend
 
 The Google Ads Keyword Generator was written and utilized during my time as Creatively Innovative, a digital marketing and data analytics agency in Chanhassen, MN.  I wrote this code to be able to save a consistent amount of time and busy work.  During the onboarding process for our clients, we would build out custom keywords for different campaigns and ad groups.  This project made it easier to generate long-tail keywords that included personalized city names and states.  At the end of the day, this was intended to be a quick fix to a problem at work, but I feel is a good example of my coding style and an example of some Python programming
 
-### Website (React / HTML)
+### React Website (React / HTML)
 
 Finally, the last thing committed on here is my personal websites / resume.  I have two, a version 1 built strictly on HTML and a version 2 that was redesign in React.  Included is the raw source code - these have just been fun projects for me to work on. If you want to view the hosted version, it is available at https://sather.ws and https://old.sather.ws
 
