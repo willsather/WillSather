@@ -4,7 +4,7 @@ Hello -
 
 Thank you for taking the time to come look at my code and the work I have been putting into my programming experience.  
 
-As of right now, I have committed a Bingo Game Simulator, Keyword Generator project, a COVID-19 Windows application demo, a group project from a Hackathon, a bus/transit simulator, and finally a website.  
+As of right now, I have committed a COVID-19 Windows application demo, a bus/transit simulator, a C seb server, and finally a website. 
 
 ### Web Server (C)
 
@@ -18,14 +18,6 @@ The COVID-19 Windows application demo is one of my more recent project which I b
 ### Bus Simulator (C++)
 
 During my spring semester of sophomore year, I took a class called Software Design and Development. This class is entirely centered around learning C++ and applying it to a single, semester-long, project.  This project is a simulation of the university's transit bus system.  The goal of this project is to learn various programming paradigms and styles, proper documentation skills, and understanding the raw C++  along with forming a software development mentality (rather just than coding). 
-
-### MinneHack 2020 (Java)
-
-During my fall semester of sophomore year, I went out on a limb with some friends and joined a 24 hour coding competition.  On a saturday night, we were "locked" into the student union and were designated to use some form of coding to solve a problem.  The problem was "a solution that ables people to give back to society or the community".  Although we didn't come up with a fully functioning product at the end of 24 hours, we still partcipated and managed to have some form of code to submit at the end.  Nothing has ever come from it yet, but we can look back today and admire how much we have improved as coders and software engineers.     
-
-### Google Ads Keyword Generator (Python)
-
-The Google Ads Keyword Generator was written and utilized during my time as Creatively Innovative, a digital marketing and data analytics agency in Chanhassen, MN.  I wrote this code to be able to save a consistent amount of time and busy work.  During the onboarding process for our clients, we would build out custom keywords for different campaigns and ad groups.  This project made it easier to generate long-tail keywords that included personalized city names and states.  At the end of the day, this was intended to be a quick fix to a problem at work, but I feel is a good example of my coding style and an example of some Python programming
 
 ### React Website (React / HTML)
 
