@@ -18,7 +18,7 @@ function Experience() {
                             <li>Systems Engineer Intern.</li>
                         </ol>
                         <ol id="sub-list-description">
-                            <li>tbd.</li>
+                            <li>flutter, firebase, dart.</li>
                         </ol>
                     </li>
                     
