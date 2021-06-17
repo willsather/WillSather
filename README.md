@@ -25,4 +25,4 @@ Finally, the last thing committed on here is my personal websites / resume.  I h
 
 Thanks for spending the time to look and review this!
 
-<img src="Website/images/signature.png" width=250>
+<img src="HTML/images/signature.png" width=250>
