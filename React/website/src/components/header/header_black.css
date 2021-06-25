@@ -6,6 +6,10 @@
     background: black;
 }
 
+.black_link, .black_link:hover {
+    color: white
+}
+
 .flex {
     display: flex;
     width: 100%;

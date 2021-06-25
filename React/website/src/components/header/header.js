@@ -23,13 +23,16 @@ function Header() {
 
         <ul class="nav_trans" id="nav_trans">
           <li>
-            <Link to="/" Style="color:black">Home</Link>
+            <Link to="/" Style="color:black">home</Link>
           </li>
           <li>
-            <Link to="/experience" Style="color:black">Experience</Link>
+            <Link to="/experience" Style="color:black">experience</Link>
           </li>
           <li>
-            <Link to="/about" Style="color:black">About</Link>
+            <a class="white_link" href="https://byt8.app" target="_blank">byt8</a>
+          </li>
+          <li>
+            <Link to="/about" Style="color:black">about</Link>
           </li>
         </ul>
       </div>

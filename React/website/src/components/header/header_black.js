@@ -29,6 +29,9 @@ function HeaderBlack() {
               <Link to="/experience" Style="color:white">Experience</Link>
             </li>
             <li>
+              <a class="black_link" href="https://byt8.app" target="_blank">byt8</a>
+            </li>
+            <li>
               <Link to="/about" Style="color:white">About</Link>
             </li>
           </ul>
