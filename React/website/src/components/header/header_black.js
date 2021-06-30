@@ -23,16 +23,16 @@ function HeaderBlack() {
 
           <ul class="nav_white" id="nav_white">
             <li>
-              <Link to="/" Style="color:white">Home</Link>
+              <Link to="/" Style="color:white">home</Link>
             </li>
             <li>
-              <Link to="/experience" Style="color:white">Experience</Link>
+              <Link to="/experience" Style="color:white">experience</Link>
             </li>
             <li>
               <a class="black_link" href="https://byt8.app" target="_blank">byt8</a>
             </li>
             <li>
-              <Link to="/about" Style="color:white">About</Link>
+              <Link to="/about" Style="color:white">about</Link>
             </li>
           </ul>
           
