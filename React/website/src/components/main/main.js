@@ -18,9 +18,7 @@ function Main() {
             <div className="main-social">
                 <ul id="social-list">
                     <li><a href="https://www.instagram.com/will.sather/" Style="color:black" target="_blank">Instagram</a></li>
-                    <li><a href="https://www.facebook.com/will.sather.92" Style="color:black" target="_blank">Facebook</a></li>
                     <li><a href="https://github.com/willsather/Will-Sather" Style="color:black" target="_blank">Github</a></li>
-                    <li><a href="https://twitter.com/will_sather" Style="color:black" target="_blank">Twitter</a></li>
                     <li><a href="https://www.linkedin.com/in/willsather" Style="color:black" target="_blank">Linkedin</a></li>
                 </ul>
             </div>

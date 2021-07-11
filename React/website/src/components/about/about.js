@@ -15,9 +15,8 @@ function About() {
             <div class="flex">
 
                 <div className="about-paragraph">
-                    i am a senior at university of minnesota studying computer science.
-                    i built this website as a learning day project so i could teach myself 
-                    react and further my html/front-end development skills.
+                    i am a senior at university of minnesota studying computer science, purusing a
+                    career as a solutions architect or a software engineer.
 
                     <br></br>
                     <br></br>
@@ -25,8 +24,8 @@ function About() {
                     
                     outside of the experience on my resume, i have some personal work with html, react,
                     and javascript through the personal websites and app development over the past few years.  
-                    professionally, i have never worked with javascript or html/react; however, i have
-                    found the work quite fascinating just on my own time.  
+                    professionally, i have never worked with on front end development; although, i find it
+                    quite interesting in my free time. 
                 
                 </div>
 

@@ -27,10 +27,6 @@
     letter-spacing: 2px;
 }
 
-.main-social {
-    letter-spacing: 2px;
-}
-
 #social-list {
     position: fixed;
     bottom: 0px;
@@ -43,7 +39,8 @@
 #social-list li {
     font-size: 16px;
     float: left;
-    padding-left: 28px;
+    padding-left: 20px;
+    padding-right: 20px;
     text-decoration: underline;
 }
 
@@ -64,7 +61,10 @@
         letter-spacing: 2px;
     }
 
-    .main-social {
-        display: none;
+    #social-list li {
+        font-size: 16px;
+        float: left;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
