@@ -9,7 +9,7 @@
 .main-title {
     color: black;
     text-align: center;
-    font-size: max(85px, 7.5vw);
+    font-size: 100px;
     letter-spacing: 20px;
     padding-top: 150px;
 }
@@ -17,7 +17,7 @@
 .main-title-lower {
     color: black;
     text-align: center;
-    font-size: max(85px, 7.5vw);
+    font-size: 100px;
     letter-spacing: 20px;
 }
 
@@ -45,4 +45,26 @@
     float: left;
     padding-left: 28px;
     text-decoration: underline;
+}
+
+/*********************/
+/** Mobile Friendly **/
+/*********************/
+
+@media screen and (max-width: 550px) {
+
+    .main-title {
+        font-size: 65px;
+        letter-spacing: 2px;
+        padding-top: 250px;
+    }
+
+    .main-title-lower {
+        font-size: 65px;
+        letter-spacing: 2px;
+    }
+
+    .main-social {
+        display: none;
+    }
 }
