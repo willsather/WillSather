@@ -4,16 +4,16 @@ function Main() {
     return (
         <div className="main-page">
             <h1 className="main-title">
-                WILL SATHER
+                WILL
+            </h1>
+
+            <h1 className="main-title-lower">
+                SATHER
             </h1>
 
             <h2 className="main-body">
-                developed with react.
+                a react // netlify project.
             </h2>
-
-            <h3 className="main-body">
-                deployed on netlify. 
-            </h3>
 
             <div className="main-social">
                 <ul id="social-list">

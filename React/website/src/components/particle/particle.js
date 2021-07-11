@@ -1,7 +1,7 @@
 import './particle.css'
 import Particles from 'react-particles-js'
 
-function Particle(){
+function Particle(particles){
     return (
         <div>
             <Particles id="particle"
@@ -17,7 +17,7 @@ function Particle(){
                         }
                     },
                     number: {
-                        value: 100
+                        value: Screen.width //Number(particles)
                     },
                     size: {
                         value: 1

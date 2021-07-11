@@ -14,6 +14,13 @@
     padding-top: 150px;
 }
 
+.main-title-lower {
+    color: black;
+    text-align: center;
+    font-size: max(85px, 7.5vw);
+    letter-spacing: 20px;
+}
+
 .main-body {
     color: black;
     font-size: 17px;

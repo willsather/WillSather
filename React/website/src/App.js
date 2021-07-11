@@ -22,16 +22,11 @@ function App() {
   return (
     
     <Router>
-
-      <div class="splash" id="splash">
-        <img src={logo_white} alt="Will Sather" width="500" height="500"/>
-      </div>
-      
       <Switch>
         <Route exact path="/">
-          <Particle /> 
+          <Particle particles="100" />
           <Header /> 
-          <Main />
+          <Main /> 
         </Route>
         <Route path="/experience">
           <Header_White /> 
@@ -49,6 +44,7 @@ function App() {
 }
 
 // Splash Screen
+/*
 document.addEventListener('DOMContentLoaded', (e)=>{
   setTimeout(()=>{
     document.getElementById("splash").style.opacity="0";
@@ -57,5 +53,5 @@ document.addEventListener('DOMContentLoaded', (e)=>{
 
   }, 0) //2750
 })
-
+*/
 export default App;
