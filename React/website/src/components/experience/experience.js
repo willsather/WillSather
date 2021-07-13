@@ -1,6 +1,7 @@
 import './experience.css'
 
 function Experience() {
+    
     return (
         <div className="experience-page">
             <h1 className="experience-title">
@@ -15,10 +16,10 @@ function Experience() {
                 <ul id="experience-list">
                     <li> <span>Dell Technologies.</span>
                         <ol id="sub-list-position">
-                            <li>Systems Engineer Intern.</li>
+                            <li>Solutions Architect Intern.</li>
                         </ol>
                         <ol id="sub-list-description">
-                            <li>dart, flutter, firebase.</li>
+                            <li>infrastructure design basics, dart, flutter, firebase.</li>
                         </ol>
                     </li>
                     
@@ -29,6 +30,16 @@ function Experience() {
 
                         <ol id="sub-list-description">
                             <li>c#, azure devops, visual studio, ci build pipeline.</li>
+                        </ol>
+                    </li>
+
+                    <li> <span>byt8.</span>
+                        <ol id="sub-list-position">
+                            <li>Developer &amp; Creator.</li>
+                        </ol> 
+
+                        <ol id="sub-list-description">
+                            <li>firebase, google cloud platform, javascript, swift, xcode.</li>
                         </ol>
                     </li>
                     
