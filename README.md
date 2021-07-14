@@ -21,7 +21,7 @@ During my spring semester of sophomore year, I took a class called Software Desi
 
 ### React Website (React / HTML)
 
-Finally, the last thing committed on here is my personal websites / resume.  I have two, a version 1 built strictly on HTML and a version 2 that was redesign in React.  Included is the raw source code - these have just been fun projects for me to work on. If you want to view the hosted version, it is available at https://sather.ws and https://old.sather.ws
+Finally, the last thing committed on here is my personal websites / resume.  I have two, a version 1 built strictly on HTML and a version 2 that was redesign in React.  Included is the raw source code - these have just been fun projects for me to work on. If you want to view the hosted React version, it is available at https://sather.ws
 
 Thanks for spending the time to look and review this!
 
