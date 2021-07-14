@@ -25,19 +25,23 @@ function App() {
       <Switch>
         <Route exact path="/">
           <Particle particles="100" />
-          <Header /> 
-          <Main /> 
+          <Header />
+          <Main />
         </Route>
         <Route path="/experience">
-          <Header_White /> 
-          <Experience /> 
+          <Header_White />
+          <Experience />
         </Route>
         <Route path="/about">
-          <Header_Black /> 
+          <Header_Black />
           <About />
         </Route>
+        <Route path="*">
+          <Particle particles="100" />
+          <Header />
+          <Main />
+        </Route>  
       </Switch>
-    
   </Router>
 
   );

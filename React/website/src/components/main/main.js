@@ -12,7 +12,7 @@ function Main() {
             </h1>
 
             <h2 className="main-body">
-                a react // netlify project.
+                livin' the dream.
             </h2>
 
             <div className="main-social">
