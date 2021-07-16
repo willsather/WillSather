@@ -19,7 +19,7 @@ function Experience() {
                             <li>Solutions Architect Intern.</li>
                         </ol>
                         <ol id="sub-list-description">
-                            <li>infrastructure design basics, dart, flutter, firebase.</li>
+                            <li>ismv4 associate exam, dart, flutter, firebase.</li>
                         </ol>
                     </li>
                     
