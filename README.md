@@ -2,9 +2,7 @@
 
 Hello -
 
-Thank you for taking the time to come look at my code and the work I have been putting into my programming experience.  
-
-As of right now, I have committed a COVID-19 Windows application demo, a bus/transit simulator, a C seb server, and finally a website. 
+Thank you for taking the time to come look at my code and the work I have been putting into my programming experience.  As of right now, I have an iOS app published on the App Store, a COVID-19 Windows application demo, a bus/transit simulator, a C web server, and finally a ReactJS website that is hosted at https://sather.ws. 
 
 ### byt8 (Swift / Javascript)
 
@@ -14,7 +12,7 @@ Anyway, I’m still working on this and have a lots of cool ideas (much of them 
 
 ### Bus Simulator (C++)
 
-During my spring semester of sophomore year, I took a class called Software Design and Development. This class is entirely centered around learning C++ and applying it to a single, semester-long, project.  This project is a simulation of the university's transit bus system.  The goal of this project is to learn various programming paradigms and styles, proper documentation skills, and understanding the raw C++  along with forming a software development mentality (rather just than coding). 
+During my spring semester of sophomore year, I took a class called Software Design and Development. This class is entirely centered around learning C++ and applying it to a single, semester-long, project.  This project is a simulation of the university's transit bus system.  The goal of this project is to learn various programming skills and styles, proper documentation skills, and understanding the raw C++ skills necessary for a fast and functioning web application along with forming a software development mentality using various project management paradigms. 
 
 
 ### COVID-19 Analytics (C#)
@@ -24,7 +22,7 @@ The COVID-19 Windows application demo is one of my more recent project which I b
 
 ### Website (React / HTML)
 
-Finally, the last thing committed on here is my personal websites / resume.  I have two, a version 1 built strictly on HTML and a version 2 that was redesign in React.  Included is the raw source code - these have just been fun projects for me to work on. If you want to view the hosted React version, it is available at https://sather.ws
+Finally, the last thing committed on here is my personal websites / resume.  I have two, a version 1 built strictly on HTML and a version 2 that was redesign in React.  Included is the raw source code - these have just been fun projects for me to work on. If you want to view the hosted React version, it is available at https://sather.ws.  I also have done some experimenting with Docker so you can explore the container images at https://hub.docker.com/repository/docker/willsather/website.  
 
 
 ### Web Server (C)
