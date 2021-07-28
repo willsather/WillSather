@@ -34,7 +34,8 @@ const will_sather = {
 
 <br />
 
-## byt8
+## <img src="HTML/images/byt8_logo.png" width=17> byt8
+
 
 ![Swift](https://img.shields.io/badge/-Swift-f24f2a)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f)
@@ -88,8 +89,6 @@ Thanks for spending the time to look this over!
 
 <img src="HTML/images/signature.png" width=250>
 
-<br/>
-<br/>
 <br/>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-willsather-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willsather/)](https://www.linkedin.com/in/willsather/)
