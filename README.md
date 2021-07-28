@@ -34,7 +34,7 @@ const will_sather = {
 
 <br />
 
-## <img src="HTML/images/byt8_logo.png" width=17> byt8
+## <img src="HTML/images/byt8_logo.png" width=21> byt8
 
 
 ![Swift](https://img.shields.io/badge/-Swift-f24f2a)
