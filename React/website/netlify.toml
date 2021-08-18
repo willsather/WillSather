@@ -2,4 +2,5 @@
 # unless otherwise overridden by more specific contexts.
 [build]
 
-    ignore = "exit 0"
+    #ignore = "exit 0"
+    ignore = "/bin/false"
