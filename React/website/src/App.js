@@ -1,5 +1,5 @@
 import React from 'react'
-import Particles from 'react-particles-js'
+import Particles from 'react-tsparticles'
 import {
   BrowserRouter as Router,
   Switch,
@@ -23,7 +23,7 @@ function App() {
     <Router>
       <Switch>
         <Route exact path="/">
-          <Particle particles="100" />
+          <Particle />
           <Header />
           <Main />
         </Route>
@@ -36,7 +36,7 @@ function App() {
           <About />
         </Route>
         <Route path="*">
-          <Particle particles="100" />
+          <Particle />
           <Header />
           <Main />
         </Route>  
