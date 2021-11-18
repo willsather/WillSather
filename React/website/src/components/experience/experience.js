@@ -29,7 +29,7 @@ function Experience() {
                         </ol> 
 
                         <ol id="sub-list-description">
-                            <li>c#, azure devops, visual studio, ci build pipeline.</li>
+                            <li>c#, azure devops, angular, ci build pipeline.</li>
                         </ol>
                     </li>
 

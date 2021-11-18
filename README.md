@@ -71,7 +71,7 @@ The COVID-19 Windows application demo is one of my more recent project which I b
 ![HTML](https://img.shields.io/badge/-CSS-brightgreen)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b375d9cc-048c-4d7e-b18a-2f24a9de14b2/deploy-status)](https://app.netlify.com/sites/will-sather/deploys)
 
-Finally, the last thing committed on here is my personal websites / resume.  I have two, a version 1 built strictly on HTML and a version 2 that was redesign in React.  Included is the raw source code - these have just been fun projects for me to work on. If you want to view the hosted React version, it is available at https://sather.ws.  I also have done some experimenting with Docker so you can explore the container images at https://hub.docker.com/repository/docker/willsather/website.  
+Finally, the last thing committed on here is my personal websites / resume.  I have two, a version 1 built strictly on HTML and a version 2 that was redesign in React.  Included is the raw source code - these have just been fun projects for me to work on. If you want to view the hosted React version, it is available at https://sather.ws.  I also have done some experimenting with Docker so you can explore the container images at [Docker](https://hub.docker.com/repository/docker/willsather/website).  
 
 <br />
 

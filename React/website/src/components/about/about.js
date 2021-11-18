@@ -24,8 +24,9 @@ function About() {
                     
                     outside of the experience on my resume, i have some personal work with html, react,
                     and javascript through the personal websites and app development over the past few years.  
-                    professionally, i have never worked with on front end development; although, i find it
-                    quite interesting in my free time. 
+                    professionally, i have worked with on front end development at ivanti when i worked on their
+                    cloud platform.  this entailed working with angular and devextreme on the frontend fully integrating
+                    our product as a service into ivanti's larger PaaS.   
                 
                 </div>
 
