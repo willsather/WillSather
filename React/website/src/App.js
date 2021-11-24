@@ -1,5 +1,5 @@
 import React from 'react'
-import Particles from 'react-tsparticles'
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -8,7 +8,6 @@ import {
 } from "react-router-dom";
 
 import './app.css'
-import logo_white from './graphics/logo_loading.gif'
 
 import Header from './components/header/header'
 import Header_Black from './components/header/header_black'
