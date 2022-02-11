@@ -1,2 +1,5 @@
 # Local Netlify folder
 .netlify
+ThreeJs/03-basic/node_modules
+ThreeJs/04-webpack/node_modules
+ThreeJs/05-webpack/node_modules
