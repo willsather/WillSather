@@ -22,11 +22,10 @@ function About() {
                     <br></br>
                     <br></br>
                     
-                    outside of the experience on my resume, i have some personal work with html, react,
-                    and javascript through the personal websites and app development over the past few years.  
-                    professionally, i have worked with on front end development at ivanti when i worked on their
-                    cloud platform.  this entailed working with angular and devextreme on the frontend fully integrating
-                    our product as a service into ivanti's larger paas.   
+                    outside of the experience on my resume, i have always enjoyed working on various
+                    projects like this website, byt8, and other small projects in my github.  i also love 
+                    to travel, cook, and cuddle with our two dogs.  don't hesitate to reach out if you want
+                    to connect for any particular reason. 
                 
                 </div>
 

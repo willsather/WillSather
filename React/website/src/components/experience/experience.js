@@ -14,6 +14,17 @@ function Experience() {
 
             <div className="experience-div">
                 <ul id="experience-list">
+
+                    <li> <span>VMware Tanzu Labs.</span>
+                        <ol id="sub-list-position">
+                            <li>Software Engineer.</li>
+                        </ol> 
+                        <ol id="sub-list-description">
+                            <li>tbd (june 2022).</li>
+                        </ol>
+                    </li>
+
+
                     <li> <span>Dell Technologies.</span>
                         <ol id="sub-list-position">
                             <li>Solutions Architect Intern.</li>
@@ -29,7 +40,7 @@ function Experience() {
                         </ol> 
 
                         <ol id="sub-list-description">
-                            <li>c#, azure devops, angular, ci build pipeline.</li>
+                            <li>c#, typescript, azure devops, angular, ci pipeline.</li>
                         </ol>
                     </li>
 
@@ -40,15 +51,6 @@ function Experience() {
 
                         <ol id="sub-list-description">
                             <li>firebase, google cloud platform, javascript, swift, xcode.</li>
-                        </ol>
-                    </li>
-                    
-                    <li> <span>Creatively Innovative.</span>
-                        <ol id="sub-list-position">
-                            <li>Data Analyst.</li>
-                        </ol> 
-                        <ol id="sub-list-description">
-                            <li>google ads, tableau, python, excel.</li>
                         </ol>
                     </li>
 
