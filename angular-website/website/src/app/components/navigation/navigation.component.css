@@ -1,0 +1,37 @@
+.header {
+    position: fixed;
+    height: 155px;
+    width: 100%;
+    overflow: hidden
+}
+
+.link, .link:hover {
+    text-decoration: none
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.flex {
+    display: flex;
+    width: 100%;
+    table-layout:fixed;
+}
+
+.logo {
+    position: absolute;
+    top: 10%; left: 3%;
+    margin-left: 2%;
+}
+
+.nav {
+    position: absolute;
+    top: 10%; right: 3%;
+
+    text-align: right;
+    letter-spacing: 2px;
+    list-style: none;
+
+    line-height: 35px;
+}
