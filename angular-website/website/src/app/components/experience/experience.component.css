@@ -1,6 +1,4 @@
 .experience-page {
-    width: auto;
-    height: 100vh;
     background: white;
 }
 
@@ -9,7 +7,6 @@
     font-size: max(40px, 7.5vw);
     letter-spacing: 15px;
 
-    width: 100%;
     padding-top: 200px;
     text-align: center;
 }
@@ -32,7 +29,6 @@
 .experience-div {
     height: 90vh;
     margin-top: 1%;
-    width: auto;
 }
 
 /***************************/
@@ -41,7 +37,6 @@
 #experience-list {
     top: 35%;
     left: 15px;
-    width: 100%;
 
     list-style: none;
     margin-left: 25px;
@@ -108,11 +103,7 @@
     padding-right: 4px;
 }
 
-@media screen and (max-width: 400px) {
-
-    .experience-page {
-        width: auto;
-    }
+@media screen and (max-width: 1000px) {
 
     .experience-title {
         letter-spacing: 5px;
