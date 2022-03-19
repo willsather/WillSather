@@ -5,24 +5,23 @@ const will_sather = {
 
   code: [C, C++, C#, Flutter, Java, JavaScript, Python, Swift],
   tools: [Azure DevOps, GCP, Firebase, .NET, Visual Studio],
-  projects: ["byt8", "bus simulator", "covid analytics", "web server", "website"],
+  projects: ["byt8", "bus simulator", "covid dashboard", "threeJs", "web server", "website"],
   work: {
-                        dell_technologies: { 
-                            "Solutions Architect Intern",
-                            "june 2021 - august 2021"
+                        vmware: {
+                            "mts - software Engineer",
+                            "tbd. june 2022",
                         },
 
                         ivanti: {
-                            "Junior Associate Software Engineer",
-                            "august 2020 - may 2021",            
+                            "software engineer intern",
+                            "september 2021 - may 2022",            
+                            "may 2020 - may 2021",            
 
-                            "Software Engineer Intern",
-                            "may 2020 - august 2020",
                         },
 
-                        creatively_innovative: {
-                            "Data Analyst",
-                            "may 2020 - august 2020",
+                        dell_technologies: { 
+                            "solutions architect intern",
+                            "june 2021 - august 2021"
                         },
 
   motto: "character is how you act when things get hard and when no one is looking",
@@ -34,7 +33,7 @@ const will_sather = {
 
 <br />
 
-## <img src="HTML/images/byt8_logo.png" width=21> byt8
+## <img src="html-website/images/byt8_logo.png" width=21> byt8
 
 
 ![Swift](https://img.shields.io/badge/-Swift-f24f2a)
@@ -56,7 +55,7 @@ During my spring semester of sophomore year, I took a class called Software Desi
 
 <br />
 
-## COVID-19 Analytics
+## COVID-19 Dashboard
 
 ![C#](https://img.shields.io/badge/-C%23-blueviolet)
 
@@ -64,20 +63,29 @@ The COVID-19 Windows application demo is one of my more recent project which I b
 
 <br />
 
-## Website
+## Website 2.0
+
+![Angular](https://img.shields.io/badge/-ReactJS-61DBFB)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-brightgreen)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b375d9cc-048c-4d7e-b18a-2f24a9de14b2/deploy-status)](https://app.netlify.com/sites/will-sather/deploys)
+
+My personal favorite project, and the most recently committed on here, is my personal websites / resume.  I decided with the experience I have with building out an Angular front-end, I wanted to rebuild my React site in Angular.  This is completely mimicking the initial version, but now has more flexibility for future functionality.  If you want to view the hosted version, it is available at https://sather.ws.
+
+## Website 1.0
 
 ![React](https://img.shields.io/badge/-ReactJS-61DBFB)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
-![HTML](https://img.shields.io/badge/-CSS-brightgreen)
+![CSS](https://img.shields.io/badge/-CSS-brightgreen)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b375d9cc-048c-4d7e-b18a-2f24a9de14b2/deploy-status)](https://app.netlify.com/sites/will-sather/deploys)
 
-Finally, the last thing committed on here is my personal websites / resume.  I have two, a version 1 built strictly on HTML and a version 2 that was redesign in React.  Included is the raw source code - these have just been fun projects for me to work on. If you want to view the hosted React version, it is available at https://sather.ws.  I also have done some experimenting with Docker so you can explore the container images at [Docker](https://hub.docker.com/repository/docker/willsather/website).  
+This is the first version I built out for a personal website.  My very first website I started with straight HTML template.  Then, I decided I wanted to start from scratch and built a basic React app.  From there, I did some experimenting with Docker so you can explore the container images at [Docker](https://hub.docker.com/repository/docker/willsather/website).  Throughout this process, I have more experience and personally prefer Angular over React, but either way looking forward to my continual improvement. 
 
 <br />
 
 ## Web Server
 
-![React](https://img.shields.io/badge/-C-red)
+![C](https://img.shields.io/badge/-C-red)
 
 During my fall semester of my junior year, I was in a Introduction to Operating Systems class at University of Minnesota. This class was focused on the low-level intricacies of a machine's operating system.  This is one project of two projects all semester in which we built a functional web server.  This server was able to process GET requests and return a variety of images that were being hosted on the computer.  This allowed us to not only learn the basics on socket programming, but also have a working, templated out web server that we can base future projects on.  
 
@@ -88,7 +96,7 @@ Thanks for spending the time to look this over!
 <br/>
 <br/>
 
-<img src="HTML/images/signature.png" width=250>
+<img src="html-website/images/signature.png" width=250>
 
 <br/>
 
