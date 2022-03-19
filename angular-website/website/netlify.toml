@@ -2,5 +2,5 @@
 # unless otherwise overridden by more specific contexts.
 [build]
 
-    #ignore = "exit 0"
+    NODE_VERSION = "14.18.0"
     ignore = "/bin/false"
