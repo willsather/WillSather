@@ -2,32 +2,26 @@
 
 ```javascript
 const will_sather = {
-
-  code: [C, C++, C#, Flutter, Java, JavaScript, Python, Swift],
-  tools: [Azure DevOps, GCP, Firebase, .NET, Visual Studio],
-  projects: ["byt8", "bus simulator", "covid dashboard", "threeJs", "web server", "website"],
   work: {
-                        vmware: {
-                            "mts - software Engineer",
-                            "tbd. june 2022",
-                        },
+        vmware: {
+            "mts - software Engineer",
+            "june 2022 - now",
+        },
 
-                        ivanti: {
-                            "software engineer intern",
-                            "september 2021 - may 2022",            
-                            "may 2020 - may 2021",            
+        ivanti: {
+            "software engineer intern",
+            "september 2021 - may 2022",            
+            "may 2020 - may 2021",            
 
-                        },
+        },
 
-                        dell_technologies: { 
-                            "solutions architect intern",
-                            "june 2021 - august 2021"
-                        },
-
+        dell_technologies: { 
+            "solutions architect intern",
+            "june 2021 - august 2021"
+        },
+    }
   motto: "character is how you act when things get hard and when no one is looking",
-
   website: "https://sather.ws"
-
 }
 ```
 
@@ -40,7 +34,7 @@ const will_sather = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2e89489-ed0d-4808-b2d1-99eecb030824/deploy-status)](https://app.netlify.com/sites/byt8/deploys)
 
-byt8 is my first iOS app that is published on the App Store.  This project arose from so many of my friends and family struggling to have a productive, meaningful day throughout quarantine and now working remotely.  I personally never journal or use any journaling apps; however, every night before bed find the time to scroll through instagram or twitter for a few minutes.  This is where byt8 came to life -- every day, the app prompts 8 binary, yes/no styled questions designed to help you easily reflect on the day, while it automatically collects weather data and HealthKit activity data.
+byt8 is my first iOS app that is published on the App Store.  This project arose from so many of my friends and family struggling to have a productive, meaningful day throughout quarantine and now working remotely.  I personally never journal or use any journaling apps; however, every night before bed find the time to scroll through instagram or twitter for a few minutes.  This is where byt8 came to life -- every day, the app prompts 8 binary, yes/no styled questions designed to help you easily reflect on the day, while it automatically collects some data your iphone inherently is tracking.
 
 Check out https://byt8.app
 
@@ -59,27 +53,27 @@ During my spring semester of sophomore year, I took a class called Software Desi
 
 ![C#](https://img.shields.io/badge/-C%23-blueviolet)
 
-The COVID-19 Windows application demo is one of my more recent project which I built out of boredom during my quarantined semester.  In the directory, I have two different versions.  The first one was my first ever project using C# and visual studio.  After 6 months of enterprise C# development (internship and part time work), I decided to redo some of the core functionality.  Some of the benefits of the second version is a massive runtime improvement, implemented a API consumption using JSON, and just overall better file management and code health.  This project has been an ongoing one and I will continue to upgrade it as I have the time.  I am now working on implementing feature to change specified state, asynchonrous loading with UI toggles, and overall a cleaner more usable user interface that meets Microsoft's standards.  I will continue to keep each version of this demo on git as to show my overall improvements and code growth.  
+The COVID-19 Windows application demo is one of my more recent project which I built out of boredom during my quarantined semester.  In the project, I have two different revisions.  The first one was my first ever project using C# and visual studio.  After 6 months of working in C#  (internship and some part time work through college), I decided to redo some of the core things about it.  
 
 <br />
 
-## Website 2.0
+## Angular Website
 
 ![Angular](https://img.shields.io/badge/-ReactJS-61DBFB)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-brightgreen)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b375d9cc-048c-4d7e-b18a-2f24a9de14b2/deploy-status)](https://app.netlify.com/sites/will-sather/deploys)
 
-My personal favorite project, and the most recently committed on here, is my personal websites / resume.  I decided with the experience I have with building out an Angular front-end, I wanted to rebuild my React site in Angular.  This is completely mimicking the initial version, but now has more flexibility for future functionality.  If you want to view the hosted version, it is available at https://sather.ws.
+After building out a basic resume app in React, I decided to I decided to copy cat the app but in Angular this time.  This is completely mimicking the initial version, but has changed tech stack and has been refactored some.  If you want to view the hosted version, it is available at https://sather.ws.
 
-## Website 1.0
+## React Website
 
 ![React](https://img.shields.io/badge/-ReactJS-61DBFB)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-brightgreen)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b375d9cc-048c-4d7e-b18a-2f24a9de14b2/deploy-status)](https://app.netlify.com/sites/will-sather/deploys)
 
-This is the first version I built out for a personal website.  My very first website I started with straight HTML template.  Then, I decided I wanted to start from scratch and built a basic React app.  From there, I did some experimenting with Docker so you can explore the container images at [Docker](https://hub.docker.com/repository/docker/willsather/website).  Throughout this process, I have more experience and personally prefer Angular over React, but either way looking forward to my continual improvement. 
+I decided I wanted to start from scratch and use create-react-app to build out a frontend React app for a personal resume.  From there, I did some experimenting with Docker so you can explore the container images at [Docker](https://hub.docker.com/repository/docker/willsather/website). 
 
 <br />
 
@@ -91,7 +85,7 @@ During my fall semester of my junior year, I was in a Introduction to Operating 
 
 <br/>
 
-Thanks for spending the time to look this over!
+thanks, y'all
 
 <br/>
 <br/>
