@@ -1,7 +1,0 @@
-# Settings in the [build] context are global and are applied to all contexts
-# unless otherwise overridden by more specific contexts.
-[build]
-    ignore = "/bin/false"
-
-[context.production.environment]
-    NODE_VERSION = "lts/*"
