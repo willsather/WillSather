@@ -2,15 +2,15 @@
 
 ```javascript
 const will_sather = {
-  hobbies: {[
+  hobbies: [
       "traveling",
       "cooking",
       "pickleball",
       "ping pong", 
       "hanging out with puppies",
       "waterski / snow ski"
-  ]},
-  work: {
+  ],
+  work: [{
         tanzu labs: {
             "software Engineer",
             "june 2022 - now",
@@ -28,5 +28,5 @@ const will_sather = {
             "june 2021 - august 2021"
         },
     }
-}
+}]
 ```
