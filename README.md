@@ -14,7 +14,7 @@ const will_sather = {
         {
             company: "vmware tanzu labs",
             role: "software engineer",
-            dates: "june 2022 - now",
+            dates: "june 2022 - october 2024",
         },
         {
             company: "ivanti",
