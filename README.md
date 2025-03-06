@@ -12,9 +12,9 @@ const will_sather = {
     ],
     work: [
         {
-            company: "vmware tanzu labs",
+            company: "vmware tanzu labs (broadcom, infinite ranges)",
             role: "software engineer",
-            dates: "june 2022 - october 2024",
+            dates: "june 2022 - current",
         },
         {
             company: "ivanti",
