@@ -12,6 +12,11 @@ const will_sather = {
     ],
     work: [
         {
+            company: "vercel",
+            role: "sales engineer",
+            dates: "march 2025 - current",
+        },
+        {
             company: "vmware tanzu labs (broadcom, infinite ranges)",
             role: "software engineer",
             dates: "june 2022 - march 2025",
